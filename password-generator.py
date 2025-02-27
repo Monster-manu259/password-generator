@@ -10,7 +10,7 @@ number = int(number)
 length = input('Input your password length: ')
 length = int(length)
 
-print('\nhere are your passwords:') 
+print('\nHere are your passwords:') 
 
 for pwd in range(number):
     passwords = ' '
